@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class VikingTest {
+class VikingsTest {
     String name = "Harald";
     int strength = 150;
     int health = 300;
