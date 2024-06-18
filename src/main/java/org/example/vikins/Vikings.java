@@ -16,6 +16,10 @@ public class Vikings extends Soldier {
         return name;
     }
 
+    public String getMsg() {
+        return msg;
+    }
+    
     public void setName(String name) {
         this.name = name;
     }
